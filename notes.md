@@ -1,0 +1,1 @@
+* This link describes how to create an environment.yml file in conda based on an existing environment: https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/04-sharing-environments/index.html.  
